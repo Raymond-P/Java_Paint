@@ -5,6 +5,9 @@ import java.awt.Color;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+/**
+* @author Raymond Perez
+**/
 public class SouthMenu extends JPanel {
 	JLabel title;
 	
