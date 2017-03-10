@@ -1,0 +1,6 @@
+
+/**
+ * @author Tribal
+ *
+ */
+package betterThanPaint;
